@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AndrutTimer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AndrutTimer_jar</output-path>
+    <root id="archive" name="AndrutTimer.jar">
+      <element id="module-output" name="AndrutTimer" />
+    </root>
+  </artifact>
+</component>
